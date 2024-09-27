@@ -4,7 +4,7 @@
 
 ### **Info**
 
-This is a repository of work for a project interested in predicting climate change through weather patters using a variety of Machine Learning techniques.
+This is a repository of work for a project interested in predicting climate change through weather patters using a variety of Machine Learning techniques. The project brief can be found in the repository.
 
 I utilized data from the European Climate Assessment and Data Set project. The main data set can be downloaded [here](https://s3.amazonaws.com/coach-courses-us/public/courses/da-spec-ml/Scripts/A1/Dataset-weather-prediction-dataset-processed.csv).
 
