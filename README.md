@@ -8,6 +8,8 @@ This is a repository of work for a project interested in predicting climate chan
 
 I utilized data from the European Climate Assessment and Data Set project. The main data set can be downloaded [here](https://s3.amazonaws.com/coach-courses-us/public/courses/da-spec-ml/Scripts/A1/Dataset-weather-prediction-dataset-processed.csv).
 
+### The final presentation of findings can be found [here](https://drive.google.com/file/d/19yab1vSdPImxRsPxN7Qli5cAzLJP9I76/view?usp=sharing).
+
 ### **Tools and Techniques**
 
 The analysis for this project was conducted in Python Jupyter and MS Excel. Python Libraries used include:
@@ -37,3 +39,4 @@ Decision Tree
 Artificial Neural Networks
 
 ### **I backed all of these algorithms with Confusion Matrix evaluations. The results can be found in the repository.**
+
